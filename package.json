@@ -1,0 +1,15 @@
+{
+  "name": "interview-editor",
+  "version": "1.0.0",
+  "description": "A Small CLI Editor Tool",
+  "main": "src/editor.js",
+  "scripts": {
+    "test": "vitest --reporter dot"
+  },
+  "keywords": [],
+  "author": "Danny Fritz <me@dannyfritz.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vitest": "^0.23.4"
+  }
+}
