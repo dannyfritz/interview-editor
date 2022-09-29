@@ -18,7 +18,7 @@ Possibly originated from Jeff Dean.
 1. Run `npm test` to ensure it is ready to go.
    - It should fail with 1 test run and many skipped.
 1. Open the repo in the editor of the Interviewer's choice
-1. Position the test run and editor on the monitor so both can be seen at the same time
+1. Position the test runner and editor on the monitor so both can be seen at the same time
 
 ### Interview
 
@@ -43,11 +43,11 @@ Possibly originated from Jeff Dean.
 
 ### Assessment
 
-| Area            | Bad                                             | Good                                   | Great                                     |
-| --------------- | ----------------------------------------------- | -------------------------------------- | ----------------------------------------- |
-| JS/TS Knowledge | Needed to rely on interviewer for all knowledge | Knew methods but looked up specifics   | Didn't need to rely on the internet much  |
-| Problem Solving | Could not get passed the first 3 tests          | Passed all tests except undo/redo      | Passed all tests                          |
-| Collaboration   | Was not receptive to ideas from the interviewer | Receptive, but did not ask for help    | Knew when to ask for help                 |
-| Friendliness    | Was not nice                                    | Was nice                               | You liked this person                     |
-| Communication   | Never spoke except to give commands             | Sometimes knew what they were thinking | Was never a guess what they were thinking |
-| Patience        | Constant interuption                            | Some interuption                       | Few or no interuptions                    |
+| Area            | Bad                                             | Good                                     | Great                                     |
+| --------------- | ----------------------------------------------- | ---------------------------------------- | ----------------------------------------- |
+| JS/TS Knowledge | Needed to rely on interviewer for all knowledge | Knew methods but looked up specifics     | Didn't need to rely on the internet much  |
+| Problem Solving | Could not get past the first 3 tests            | Passed all tests except redo             | Passed all tests                          |
+| Collaboration   | Was not receptive to ideas from the interviewer | Receptive, but did not ask for help      | Knew when to ask for help                 |
+| Friendliness    | Was not nice                                    | Was nice                                 | You liked this person                     |
+| Communication   | Never spoke except to give commands             | Sometimes shared what they were thinking | Adequately shared what they were thinking |
+| Patience        | Constant interuption                            | Some interuption                         | Few or no interuptions                    |
